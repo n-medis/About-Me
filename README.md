@@ -33,7 +33,7 @@
 * Play video games with my friends
     - Recently we've been playing Fortnite
 * Shopping 
-    - Some of my favorite stores include Urban Outfitters, Sephora, Dolls Kill, and of course Amazon. 
+    - Some of my favorite stores include [Urban Outfitters](https://www.urbanoutfitters.com/), [Sephora](www.sephora.com), [Dolls Kill](www.dollskill.com), and of course [Amazon](www.amazon.com). 
 * Makeup
     - Fenty Beuty, Nars and Tarte are the brands I use most often and my favorite makeup artists are Jefree Star and Vereena Sayed.
 * Cooking 
