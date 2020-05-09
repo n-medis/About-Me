@@ -1,8 +1,6 @@
-# About Me
- Project 2: About Nina
-#**About Me: Nina <3**
+# **About Me: Nina <3**
 
-##Basic Info
+## Basic Info
 * Full Name- Nina Salamar Medis
 * Age- 16 years old
 * Grade- Junior
@@ -16,7 +14,7 @@
     * Elementary and Middle School- Edgar B. Davis K-8
     * High School- Brockton High School
 
-##Family 
+## Family 
 * Mom- Rosali; Born and raised in Brockton. Attended South Eastern and Brockton Hospital School of Nursing.
 * Dad- Nick; Born and raised in Brockton. Attended Brockton High and UMass Amherst.
 * Stepmom- Micheala; Born in Quincy raised in Easton. Attended Oliver Ames and a nursing school.
@@ -43,7 +41,7 @@
     - Horseshoe Bay, Bermuda
     ![Horseshoe-Bay](https://www.gotobermuda.com/sites/default/files/styles/hero/public/head-horseshoe-bay.jpg?itok=TScK839c)
     - Mayflower, Dennis, Cape Cod
-    - Chen Rio, Cozumel ![Chen-Rio](https://www.encirclephotos.com/wp-content/uploads/Mexico-Cozumel-San-Miguel-Chen-Rio-Beach-Lagoon.jpg)
+    - Chen Rio, Cozumel
     - Second Beach, Rhode Island
     - Horseneck, Westport
 * Learning about Astrology
