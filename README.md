@@ -1,6 +1,5 @@
-# About Me
- Project 2: About Nina
-#**About Me: Nina <3**
+
+# **About Me: Nina <3**
 
 ## Basic Info
 * Full Name- Nina Salamar Medis
