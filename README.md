@@ -2,7 +2,7 @@
  Project 2: About Nina
 #**About Me: Nina <3**
 
-##Basic Info
+## Basic Info
 * Full Name- Nina Salamar Medis
 * Age- 16 years old
 * Grade- Junior
@@ -16,7 +16,7 @@
     * Elementary and Middle School- Edgar B. Davis K-8
     * High School- Brockton High School
 
-##Family 
+## Family 
 * Mom- Rosali; Born and raised in Brockton. Attended South Eastern and Brockton Hospital School of Nursing.
 * Dad- Nick; Born and raised in Brockton. Attended Brockton High and UMass Amherst.
 * Stepmom- Micheala; Born in Quincy raised in Easton. Attended Oliver Ames and a nursing school.
